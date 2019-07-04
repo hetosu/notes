@@ -67,3 +67,5 @@ Another good resource for generating a good CSP declaration is [CSP is Awesome][
 [cordova-plugin-whitelist]: http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-whitelist
 [cordova-plugin-whitelist-csp]: http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-whitelist#content-security-policy
 [csp-is-awesome]: http://cspisawesome.com
+
+"# notes: Follow the steps to set the infrastructure -> https://phonegap.com/getstarted/
